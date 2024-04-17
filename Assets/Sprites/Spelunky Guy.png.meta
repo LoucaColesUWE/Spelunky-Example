@@ -1,0 +1,3057 @@
+fileFormatVersion: 2
+guid: 850e5fde6f8cad24ea1fcf76a3e6b810
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spelunky Guy_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 944
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e11774f9843fa4db34f41090918802
+      internalID: 869155347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 944
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f8593fb355a554b916497a32364f92
+      internalID: -2055204190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 944
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4693b67b0fa1df1479b73673d22c9bff
+      internalID: -1398608246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 944
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89676184fc9ab64a90f2a8d2ad49995
+      internalID: -1831124600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 944
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07995ba8479b78c46bbfa7e06ce9f391
+      internalID: -919520868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_5
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 944
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaa9ce8f2b1e8642893ab1a1335a6b5
+      internalID: 1438396801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_6
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 944
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa95d03452b64fb49b0edd8e8073159d
+      internalID: -2028933774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_7
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 944
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f6921b1dc739e4b8a6bf6baaf0fc89
+      internalID: 1624607802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_8
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 944
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7055227faac92074e9ebffdaa9381eca
+      internalID: 68903773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_9
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 944
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981dbc4322c6cf74987b90a88c6abc17
+      internalID: -87516878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 864
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba9cabaa41285343b1efddd457f9d2c
+      internalID: -953362757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 864
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba16b7274c3ba3347aa1cb01c163694c
+      internalID: 201094964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 864
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d5a45b5c97a4840b3085e80e46d52b
+      internalID: 373273074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_13
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 864
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef91c3bd78c047409f557ede10595fc
+      internalID: 1417441836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_14
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 864
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14edd3c586688d243b39f0cbd553b392
+      internalID: 1517105783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_15
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 864
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2140f37380d10ce4e8d791821128d270
+      internalID: -475731595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_16
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 864
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343edbbc5ca06864e8c754590fb6c32e
+      internalID: 1352900436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_17
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 864
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57c13d67314a6148b09414e87890bfa
+      internalID: 151746115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_18
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 864
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbb92156251d2b41a70997d6bf0bd88
+      internalID: 9311187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_19
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 864
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad42d1af5dc3d5a4c8cedca84dd1232a
+      internalID: -1316775809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_20
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 864
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc22d271d946f74dac4a42e25e55821
+      internalID: 338689177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_21
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 864
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aadee2cf0d589743bd3f0171af1791e
+      internalID: 592478057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 784
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a80da058bfa074abaf07fd7a1efc67
+      internalID: 1104880387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 784
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7532502a5ff09d4cbad4996037d3586
+      internalID: -485047798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_24
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 784
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba24a16616d23447be86414a77fdfd8
+      internalID: 97529533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_25
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 784
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dba1c4e695027d42b42ccac3cfc0759
+      internalID: 1992239639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_26
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 784
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558577f84eba65e41a2804c366e782db
+      internalID: -1445117642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_27
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 784
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252fbcc47dd06204fa5b0f5719ebcf2e
+      internalID: -2454289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_28
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 784
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd986a3ef12166d479c9927afc6e94c3
+      internalID: -641649942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_29
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 784
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebafdd34e68df1c4284cd52314660e8a
+      internalID: -473548829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_30
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 784
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae4ca5b0a1fefd4b9e52ceed14b775d
+      internalID: 948410478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_31
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 784
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda51b56d72446242901ac2821191a91
+      internalID: -827585062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_32
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 784
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016084c9ffeb16d46a99abc272949412
+      internalID: 666417446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 704
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc79e9d328a2d9458a744b286923ef4
+      internalID: 637305041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 704
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4552f931703bfaf47a5c52692bbafbae
+      internalID: -54671630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_35
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 704
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a0fb28d0f3942409de04133d7aa5d6
+      internalID: 781540836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_36
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 704
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de218a9e2a3436e4ca0338c0776175f2
+      internalID: -319271216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_37
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 704
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddcb1a38cfe4cb4286c2d4270ec7113
+      internalID: 509278849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_38
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 704
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe12b64c01cde445b353d7cc7dddc14
+      internalID: -319341415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_39
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 704
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a2681d6ff8843439e00ecefaace812
+      internalID: -279746629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_40
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 704
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da49486a1340ee6479d7dafdc9294aa8
+      internalID: 1082611295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_41
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 704
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12e64441dc24b54a85eacadf42aaf5a
+      internalID: 148534456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_42
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 704
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d82a231f7a0414fa8f09fecbaa2856
+      internalID: -1245732369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_43
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 704
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86228bbfff7595409adb5586ff440fd
+      internalID: 794667997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_44
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 704
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1bdf58b9ed5714eacf535ebc7993a9
+      internalID: 1631431364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 624
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cfc808ee8dcd24fb7fa3909078a836
+      internalID: 372403033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_46
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 624
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ae29dae02939246b43531abc72fb4a
+      internalID: 815818590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_47
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 624
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126936d29b118da43ab5b70f831b38e8
+      internalID: 608408387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_48
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 624
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efd267aeb767b24c93d53851f6d97d0
+      internalID: 1318412845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_49
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 624
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd022a0e0c645a45b7d7f4f3fbd2766
+      internalID: 1239992220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_50
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 624
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d236d0aa2acff4bb9bbfefa471facd
+      internalID: 1461430074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_51
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 624
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea3a935791c6544095ec6c3240f5d96
+      internalID: 2088608092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_52
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 624
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57c771a2533b8c4f8fd409cfa4bad8b
+      internalID: -1417125254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_53
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 624
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee5569fd195c9a4b814c313bce3bdda
+      internalID: -2082386983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_54
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 624
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3479278dda134cb469669c682d57a4b9
+      internalID: -353525610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_55
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 624
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15dae25c1a25e94a9e7c3026b61818e
+      internalID: -1863696845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 544
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346bfce0659f7d44db281c083eb54fe0
+      internalID: 349859363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_57
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 544
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75b14ba6f3076d499992b1cae83c799
+      internalID: 1250708626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_58
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 544
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0aaf7d1be4e2744941c3b2ba2b387d
+      internalID: -1949628556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_59
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 544
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18838582c18807e448c1949e5ca9360f
+      internalID: 1113254976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_60
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 544
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861335e0727949242a844bacb9df121e
+      internalID: 1479729302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_61
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 544
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761775a520d11944591c7a14b1c253e9
+      internalID: -356424789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_62
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 544
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c6b56bfc4b66f4aab1ed949b04bcbb
+      internalID: 1467214683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_63
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 544
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20379afd4bce85b4c985519ab67083bd
+      internalID: -1859850583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_64
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 544
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254b8b4e3362cfc4a98fb929c6141e30
+      internalID: 157050687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_65
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 544
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe779ac8d4199041869007b92127ca3
+      internalID: -923609390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_66
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 544
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdb627c806c94348ac2cc7058fe9778
+      internalID: 802821121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_67
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 544
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e98e93590286b419bc63208083cec7
+      internalID: 927365892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_68
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 464
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f533f2a6d6997468465c54a8a14f5b
+      internalID: 360466485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_69
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 464
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a06449001f4a34ab5976ed07ca55b8
+      internalID: -2071247219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_70
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 464
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853c3e4ead6bc2b41985f9f2d691549a
+      internalID: 315201602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_71
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 464
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae49cbceb624f39438c22e1421134b45
+      internalID: -780715924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_72
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 464
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2390f8ae7842af5488fc9f4fbad89f51
+      internalID: -1324994810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_73
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 464
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e2bf3f04e785841b04dae4c88a6850
+      internalID: 795536607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_74
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 464
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d91ccd316d078e4c86736596860de59
+      internalID: 413519550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_75
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 464
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3906b28531cd0dd4eb40aedf60f2fcc6
+      internalID: -154149340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_76
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 464
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64d09f32d324724582a1178a887af44
+      internalID: -942246149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_77
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 464
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387766f3523fed541969e1a46fdf39fb
+      internalID: -680502151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_78
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 464
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea50de510bc7574986ada586df62ead
+      internalID: 1824286405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_79
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 464
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cced99ba72e2b34a9e7e179aaed0997
+      internalID: -1773100213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 384
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bf067856f39954e8e1b1237f9652b2
+      internalID: -113322957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_81
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 384
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65d992710e68f54bb3311d008165c46
+      internalID: -598192756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_82
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 384
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819bcd99e75bab84faf995eb890a8cc3
+      internalID: -1505455179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_83
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 384
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522d8aae0c4c7dc49b2a766744378fa3
+      internalID: -1393848768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_84
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 384
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64b03cd7aef88e4b91d3670207db71b
+      internalID: -2049458325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_85
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 384
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c2b33c47ecdfe4e8ca85d5b69abe32
+      internalID: -586194188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_86
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 384
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ff039f482632443a6ce86ecf46819f
+      internalID: -1029624243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_87
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 384
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c924d9f7b439b4346bc32e78fa8cd9ed
+      internalID: -1316860474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_88
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 384
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff876787eba9c54983b4fa0fb9110aa
+      internalID: -885387622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_89
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 384
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e15e037c8ef0f4980eb05c68231fbc
+      internalID: -2078353041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 304
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a4fde6f3a18884b81172f4d9595974
+      internalID: -1097215877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_91
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 304
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b7c8fecfc23b44689838790ad8f96b
+      internalID: -657361360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_92
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 304
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9c0230c7556974eada226ae238d451
+      internalID: 1282395281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_93
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 304
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd36172df64f5964eb18d7e7441b8f62
+      internalID: 330340978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_94
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 304
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b50e8f7dceb0e4db4e6ce1a647ae0e
+      internalID: -594637144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_95
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 304
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68d6642ba7de254fb89e6e8e51b5370
+      internalID: -457366308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_96
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 304
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44efc5e09b747994e92c622d65f63b3d
+      internalID: -616620835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_97
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 304
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c3207518b9edd46bdfaa4dbde2f327
+      internalID: -1020915380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_98
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 224
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74291649d67bba54d80d979005a55a02
+      internalID: -1512637177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_99
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 224
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d4606e81a8a034293d5facd765d0ab
+      internalID: -1164433682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_100
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 224
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978d73c4cf4b7ff47bce91da326061b4
+      internalID: -1125609687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_101
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 224
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df31fa19375cf14ea5d9c7fbc00cf95
+      internalID: -539590194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_102
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 224
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b4cec952e1590478a471a3d5c20d10
+      internalID: -1818282875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_103
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 224
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac57c3021529ae240b9545ca47c3beef
+      internalID: 929484015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_104
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 224
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af80af6e00cdf043a081d7dc9a894a2
+      internalID: -753188281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_105
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 224
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d292dcd18f3e0fd4fa74466ae469047a
+      internalID: 1784880228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_106
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 224
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167a2eaa8c9f720428c6ddb6d2ea389b
+      internalID: 1243342506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_107
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 224
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a03af2bb8b90c45853e2430f95e93e
+      internalID: 706272906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_108
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 224
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9fb7a637a90b84cbfbc655680ff09e
+      internalID: 1780509706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_109
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 224
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42e427295093b34abf7d3ce2e2c3086
+      internalID: 1321789917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_110
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 144
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ad8b343e5f06a46b63ad158c842eee
+      internalID: 401900729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_111
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 144
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ac4f7b0018b3348b2024e7d42847cd
+      internalID: -788840585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_112
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 144
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5465fa40a613bd34698e31ccf9759ea5
+      internalID: -1640801478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_113
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 144
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7474ad5fc438cf14d92aae3cfd632258
+      internalID: 1701080609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_114
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 144
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c26db439dc13e489e00b6788999721
+      internalID: -429363282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_115
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 144
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cea1da5e26db9c44b573113d2e824bd
+      internalID: -1215836128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_116
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 144
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debebb1bd67e7234e9c6a2b6e7c2f187
+      internalID: -490824196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_117
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 144
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec242232a80fd54db0a7ba8e2dc9423
+      internalID: -32002288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_118
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 144
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf67f60f115e2864991010d226569174
+      internalID: 1992257218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_119
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 144
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231531a5bee5af449b51894c4f65228d
+      internalID: -1983644368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_120
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 144
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da9d017afe43824992f2be2a3a0b4a5
+      internalID: 411012105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_121
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 144
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8156e3775a60f6c48ab7793d8d96d096
+      internalID: 1757808069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_122
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 64
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1711cc9ce46806e4780ddba7133af77d
+      internalID: -237505119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_123
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 64
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629268f8e59a1ff41b84724898c5449b
+      internalID: 2027372100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_124
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 64
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fb4c22ce8bb604abefcecd27ad486a
+      internalID: 1508430330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_125
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 64
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93833457808cc144a023543775c08d2
+      internalID: -1607563208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_126
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 64
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13880466ff1db4c4083fb1d09f6cdc67
+      internalID: 1846272555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_127
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 64
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4721ec1519af3294493ebc8d088fa49b
+      internalID: -1584815455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_128
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 64
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49335ec74d4f87847b3ceb9461449a18
+      internalID: 1859533293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_129
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 64
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440e6e5a173ff8e49b959aa30a496aee
+      internalID: -1098363208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_130
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 64
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff3f023ac9766340836ed9ef8715f6c
+      internalID: -1707992879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunky Guy_131
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 64
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0361ae050bd614dbc63d8b62fcbf65
+      internalID: -1101800191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Spelunky Guy_0: 869155347
+      Spelunky Guy_1: -2055204190
+      Spelunky Guy_10: -953362757
+      Spelunky Guy_100: -1125609687
+      Spelunky Guy_101: -539590194
+      Spelunky Guy_102: -1818282875
+      Spelunky Guy_103: 929484015
+      Spelunky Guy_104: -753188281
+      Spelunky Guy_105: 1784880228
+      Spelunky Guy_106: 1243342506
+      Spelunky Guy_107: 706272906
+      Spelunky Guy_108: 1780509706
+      Spelunky Guy_109: 1321789917
+      Spelunky Guy_11: 201094964
+      Spelunky Guy_110: 401900729
+      Spelunky Guy_111: -788840585
+      Spelunky Guy_112: -1640801478
+      Spelunky Guy_113: 1701080609
+      Spelunky Guy_114: -429363282
+      Spelunky Guy_115: -1215836128
+      Spelunky Guy_116: -490824196
+      Spelunky Guy_117: -32002288
+      Spelunky Guy_118: 1992257218
+      Spelunky Guy_119: -1983644368
+      Spelunky Guy_12: 373273074
+      Spelunky Guy_120: 411012105
+      Spelunky Guy_121: 1757808069
+      Spelunky Guy_122: -237505119
+      Spelunky Guy_123: 2027372100
+      Spelunky Guy_124: 1508430330
+      Spelunky Guy_125: -1607563208
+      Spelunky Guy_126: 1846272555
+      Spelunky Guy_127: -1584815455
+      Spelunky Guy_128: 1859533293
+      Spelunky Guy_129: -1098363208
+      Spelunky Guy_13: 1417441836
+      Spelunky Guy_130: -1707992879
+      Spelunky Guy_131: -1101800191
+      Spelunky Guy_14: 1517105783
+      Spelunky Guy_15: -475731595
+      Spelunky Guy_16: 1352900436
+      Spelunky Guy_17: 151746115
+      Spelunky Guy_18: 9311187
+      Spelunky Guy_19: -1316775809
+      Spelunky Guy_2: -1398608246
+      Spelunky Guy_20: 338689177
+      Spelunky Guy_21: 592478057
+      Spelunky Guy_22: 1104880387
+      Spelunky Guy_23: -485047798
+      Spelunky Guy_24: 97529533
+      Spelunky Guy_25: 1992239639
+      Spelunky Guy_26: -1445117642
+      Spelunky Guy_27: -2454289
+      Spelunky Guy_28: -641649942
+      Spelunky Guy_29: -473548829
+      Spelunky Guy_3: -1831124600
+      Spelunky Guy_30: 948410478
+      Spelunky Guy_31: -827585062
+      Spelunky Guy_32: 666417446
+      Spelunky Guy_33: 637305041
+      Spelunky Guy_34: -54671630
+      Spelunky Guy_35: 781540836
+      Spelunky Guy_36: -319271216
+      Spelunky Guy_37: 509278849
+      Spelunky Guy_38: -319341415
+      Spelunky Guy_39: -279746629
+      Spelunky Guy_4: -919520868
+      Spelunky Guy_40: 1082611295
+      Spelunky Guy_41: 148534456
+      Spelunky Guy_42: -1245732369
+      Spelunky Guy_43: 794667997
+      Spelunky Guy_44: 1631431364
+      Spelunky Guy_45: 372403033
+      Spelunky Guy_46: 815818590
+      Spelunky Guy_47: 608408387
+      Spelunky Guy_48: 1318412845
+      Spelunky Guy_49: 1239992220
+      Spelunky Guy_5: 1438396801
+      Spelunky Guy_50: 1461430074
+      Spelunky Guy_51: 2088608092
+      Spelunky Guy_52: -1417125254
+      Spelunky Guy_53: -2082386983
+      Spelunky Guy_54: -353525610
+      Spelunky Guy_55: -1863696845
+      Spelunky Guy_56: 349859363
+      Spelunky Guy_57: 1250708626
+      Spelunky Guy_58: -1949628556
+      Spelunky Guy_59: 1113254976
+      Spelunky Guy_6: -2028933774
+      Spelunky Guy_60: 1479729302
+      Spelunky Guy_61: -356424789
+      Spelunky Guy_62: 1467214683
+      Spelunky Guy_63: -1859850583
+      Spelunky Guy_64: 157050687
+      Spelunky Guy_65: -923609390
+      Spelunky Guy_66: 802821121
+      Spelunky Guy_67: 927365892
+      Spelunky Guy_68: 360466485
+      Spelunky Guy_69: -2071247219
+      Spelunky Guy_7: 1624607802
+      Spelunky Guy_70: 315201602
+      Spelunky Guy_71: -780715924
+      Spelunky Guy_72: -1324994810
+      Spelunky Guy_73: 795536607
+      Spelunky Guy_74: 413519550
+      Spelunky Guy_75: -154149340
+      Spelunky Guy_76: -942246149
+      Spelunky Guy_77: -680502151
+      Spelunky Guy_78: 1824286405
+      Spelunky Guy_79: -1773100213
+      Spelunky Guy_8: 68903773
+      Spelunky Guy_80: -113322957
+      Spelunky Guy_81: -598192756
+      Spelunky Guy_82: -1505455179
+      Spelunky Guy_83: -1393848768
+      Spelunky Guy_84: -2049458325
+      Spelunky Guy_85: -586194188
+      Spelunky Guy_86: -1029624243
+      Spelunky Guy_87: -1316860474
+      Spelunky Guy_88: -885387622
+      Spelunky Guy_89: -2078353041
+      Spelunky Guy_9: -87516878
+      Spelunky Guy_90: -1097215877
+      Spelunky Guy_91: -657361360
+      Spelunky Guy_92: 1282395281
+      Spelunky Guy_93: 330340978
+      Spelunky Guy_94: -594637144
+      Spelunky Guy_95: -457366308
+      Spelunky Guy_96: -616620835
+      Spelunky Guy_97: -1020915380
+      Spelunky Guy_98: -1512637177
+      Spelunky Guy_99: -1164433682
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
